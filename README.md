@@ -16,15 +16,29 @@ This is a page that will generate informational summaries for your employees in 
 ## Installation
 
 For this application to function properly, you need to install the following:
-1. Clone to your local machine.
+
+1. Inquirer
+2. Jest
 
 ## Usage
 
 Simply run "node index.js" in your terminal. Then follow the prompts.
 
+## Preview
+
+
+
+https://user-images.githubusercontent.com/113379247/208499639-7bae9f33-1bc8-49ad-b6bb-b8a7b9b43992.mp4
+
+
+
+https://user-images.githubusercontent.com/113379247/208499781-a1056ff0-683d-4392-8cd1-1bb9b11f6afb.mp4
+
+
+
 ## Contributions
 
-By adding some new features/information types.
+Other users can add more information/features.
 
 ## Tests
 
